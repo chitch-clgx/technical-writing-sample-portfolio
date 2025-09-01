@@ -18,7 +18,7 @@ This portfolio contains three documents. Please feel free to click the links bel
 * [**The POD Model**](overview-writing-sample.md)
     * This writing sample demonstrates the breadth of my documentation skills, highlighting a document that was requested by internal stakeholders to guide client delivery colleagues charged with implementing a new approach to project management. It illustrates my skills in researching a topic and applying what I learn to a specific business requirement.
 
-* [**Assigning Orders to Staff Using Rule Profiles**](user-guide-sample.md)
+* [**Rule Profile Settings: Mixed Configurations**](user-guide-sample.md)
     * This writing sample demonstrates my ability to take complex information and simplify it for end users. It showcases my ability to communicate complexity in a simple way.
 
 ---
