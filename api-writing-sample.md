@@ -2,7 +2,6 @@
 
 * **Topic:** API Resource Descriptions for Third-Party System Integration
 * **Audience:** Software developers and system administrators responsible for integrating a third-party system with a centralized order management platform.
-* **Goal:** To provide a clear, comprehensive guide for interacting with the API, detailing authentication, request/response structures, and specific endpoint functionalities.
 
 ---
 
@@ -88,3 +87,4 @@ The `CreateOrderRs` is a synchronous call that is expected to return a `FolderId
 | IsAVM | Denotes whether the order is an Automated Valuation Model (AVM) order | boolean | Optional | |
 
 *XML samples redacted.*
+
