@@ -1,3 +1,9 @@
+### Writing Sample: User Guide Excerpt 
+
+* **Topic:** Assigning Orders to Staff Using Rule Profiles
+* **Audience:** Platform users who process and assign orders to external vendors.
+* **Goal:** To explain how to use "mixed configurations" within a rule profile to automate order assignment for some clients while allowing manual assignment for others.
+
 # Rule Profile Settings: Mixed Configurations
 
 An effective order assignment process often requires a blend of automation and manual control. By using a mixed configuration, you can set up a single **Admin Rule Profile** to automatically assign orders from some clients while allowing staff to manually assign orders from others.
@@ -29,3 +35,4 @@ Imagine a company that handles orders for two different clients: Client A and Cl
 **Client B** is a smaller client with less frequent orders. For this client, the rule profile's Client parameter is set to `[monitor only]`. This allows staff to view the order and manually assign it to a team member with a lighter workload, ensuring that Client B's needs are handled with a personal touch.
 
 By using a mixed configuration, the company can maintain an efficient, automated workflow for high-volume clients while still providing careful, manual oversight for others. This approach ensures that all orders are assigned in the most effective way possible, based on specific client needs and business priorities.
+
