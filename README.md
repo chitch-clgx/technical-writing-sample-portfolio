@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Welcome to my portfolio of professional writing samples. This repository contains a curated selection of my work, submitted for consideration for the **Technical Writer** position at **CrowdStrike**.
+Welcome to my portfolio of professional writing samples. This repository contains a curated selection of my work, submitted for consideration for the **Technical Writer** position.
 
 My goal is to provide you with a clear and comprehensive look at my abilities in **Technical Writing**.
 
